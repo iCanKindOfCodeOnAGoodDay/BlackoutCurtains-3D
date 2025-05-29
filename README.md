@@ -1,4 +1,4 @@
-Print at 400%. This is a durable model. 
+Print at 400% size. This is a durable model, infill set to reflect. 
 
 I can't remember if the 2 I have drilled onto my wall 
 are printed from PLA or PLA+.
